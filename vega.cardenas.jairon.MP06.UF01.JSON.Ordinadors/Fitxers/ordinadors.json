@@ -1,0 +1,16 @@
+[
+  {
+    "marca": "Acer",
+    "model": "Nitro N-50",
+    "memoria": 16,
+    "discDur": 1024,
+    "processador": "Intel"
+  },
+  {
+    "marca": "MSI",
+    "model": "GF63 Thin",
+    "memoria": 32,
+    "discDur": 512,
+    "processador": "Intel"
+  }
+]
